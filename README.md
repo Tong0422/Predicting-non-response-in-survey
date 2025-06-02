@@ -88,7 +88,7 @@ This insight can help survey designers rephrase or better time-sensitive questio
 
 ## 🌐 View Full Report
 
-👉 [Click here to view the full HTML report](./income_nonresponse_analysis.html)  
+👉 [Click here to view the full HTML report](http://tong0422.github.io/Predicting-non-response-in-survey/income_nonresponse_analysis.html)  
 *(If using GitHub Pages, you can replace this with your live link)*
 
 
